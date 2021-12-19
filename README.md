@@ -6,13 +6,16 @@ This repo has the code for the Context+Skill experiments in the FlappyBall domai
 
 Animations below show the test performance of all three evolved networks (i.e., network parameters are frozen after training) in a situation where the controlling parameters of the environment (i.e., effect of lift, gravity, etc.) are totally out of the training region.
 
-Context-Skill Network
-![](demo/Context-Skill Net.gif) 
+**Context-Skill Network**
 
-Context-only Network
-![](demo/Context-only Net.gif)
+![](Context-Skill-Net.gif) 
 
-Skill-only Network
-![](demo/Skill-only Net.gif)
+**Context-only Network**
+
+![](Context-only-Net.gif)
+
+**Skill-only Network**
+
+![](Skill-only-Net.gif)
 
 **[1]** Tutum, C., Abdulquddos, S., Miikkulainen, R., "Generalization of Agent Behavior through Explicit Representation of Context", Proceedings of the 3rd IEEE Conference on Games, 2021. http://nn.cs.utexas.edu/?tutum:cog21
